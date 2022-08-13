@@ -1,3 +1,6 @@
 hello world saja
 
-mencoba menambahkan perubahan deskripsi
+mencoba menambahkan perubahan deskripsi  
+-update squash 1  
+-update squash 2
+-update squash 3
