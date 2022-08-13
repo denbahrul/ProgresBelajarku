@@ -1,4 +1,5 @@
 hello world saja
 
 mencoba menambahkan perubahan deskripsi  
-#update squash 1
+-update squash 1  
+-update squash 2
